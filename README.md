@@ -1,4 +1,4 @@
-# Sign Language Recognition Using Machine Learning
+# Sign Language Recognition Using Random Forest Classifier
 
 ## Project Overview
 
